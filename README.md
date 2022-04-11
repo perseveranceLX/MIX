@@ -24,4 +24,4 @@ A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected From EUVP
 
 'underwater_uiebd'           (UIEB,     10680 Images)
 
-                    ![image](https://user-images.githubusercontent.com/60308838/162661723-6e52f06a-843d-4109-af91-cdb923d7e461.png)
+![image](https://user-images.githubusercontent.com/60308838/162661723-6e52f06a-843d-4109-af91-cdb923d7e461.png)
