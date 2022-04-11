@@ -22,6 +22,6 @@ A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected From EUVP
 
 'underwater_shark',------------------------------------------------(UVE-38K....163___Images)
 
-'underwater_uiebd',------------------------------------------------(UIEB.......10680_Images)
+'underwater_uiebd',------------------------------------------------(UIEB.......10680_Images) 
 
 
