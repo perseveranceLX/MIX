@@ -37,7 +37,7 @@ https://drive.google.com/drive/folders/1juzOLmib2FBCujFyaPERZ_LPlxgsX07Y?usp=sha
 
 Your Email MUST be set from a valid University account and MUST include the following text:*
 
-1. Subject: (DOL) Application to download the DOL Dataset          
+1. Subject: (MIX) Application to download the MIX Dataset          
 2. Name: your first and last name
 3. Affiliation: University where you work
 4. Department: your department
