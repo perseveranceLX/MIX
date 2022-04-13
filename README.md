@@ -35,5 +35,20 @@ You will need a permission to access the files of this database in https://drive
 
 Your Email MUST be set from a valid University account and MUST include the following text:*
 
+1. Subject: (DOL) Application to download the DOL Dataset          
+2. Name: <your first and last name>
+3. Affiliation: <University where you work>
+4. Department: <your department>
+5. Position: <your job title>
+6. Email: <must be the email at the above mentioned institution>
+
+I have read and agree to the terms and conditions specified in the RAF face database webpage. 
+
+This database will only be used for research purposes. 
+
+I will not make any part of this database available to a third party. 
+
+I'll not sell any part of this database or make any profit from its use.
+
 
 
