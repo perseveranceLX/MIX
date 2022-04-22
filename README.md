@@ -4,7 +4,7 @@ MIX-Benchmark/Dataset
 A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected From EUVP, UIEB And UVE-38K.
 ---------------------------------------------------------------------------------------------------
 
-#### It consists of the following six parts:
+#### It consists of the following ten parts:
 
 ##### *#'underwater_coral',----------------------------------------------(UVE-38K....360___Images)*
 
