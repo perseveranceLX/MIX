@@ -10,21 +10,21 @@ A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected From EUVP
 
 ##### *#'underwater_cuttlefish',---------------------------------------- (UVE-38K....159___Images)*
 
-##### *#'underwater_dark',--------------------------------------------—(EUVP.......555___Images)*
+##### *#'underwater_dark',----------------------------------------------—(EUVP.......555___Images)*
 
 ##### *#'underwater_dive',-----------------------------------------------(UVE-38K....1437__Images)*
 
-##### *#'underwater_euvptestset',-----------------------------------------(EUVP.......515___Images)*
+##### *#'underwater_euvptestset',----------------------------------------(EUVP.......515___Images)*
 
-##### *#'underwater_imagenet',-----------------------------------------(EUVP.......3700__Images)*
+##### *#'underwater_imagenet',-------------------------------------------(EUVP.......3700__Images)*
 
-##### *#'underwater_marineranching',---------------------------------(UVE-38K....1800__Images)*
+##### *#'underwater_marineranching',-------------------------------------(UVE-38K....1800__Images)*
 
-##### *#'underwater_scenes',-----------------------------------------—-(EUVP.......2185__Images)*
+##### *#'underwater_scenes',-------------------------------------------—-(EUVP.......2185__Images)*
 
-##### *#'underwater_shark',------------------------------------------—-(UVE-38K....163___Images)*
+##### *#'underwater_shark',--------------------------------------------—-(UVE-38K....163___Images)*
 
-##### *#'underwater_uiebd',-------------------------------------------—(UIEB.......10680_Images)* 
+##### *#'underwater_uiebd',---------------------------------------------—(UIEB.......10680_Images)* 
 
 
 *This database is publicly available. It is free for professors and researcher scientists affiliated to a University. 
