@@ -14,6 +14,8 @@ A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected From EUVP
 
 ##### *#'underwater_dive',-----------------------------------------------(UVE-38K....1437__Images)*
 
+##### *#'underwater_euvptestset',-----------------------------------------(EUVP.......515___Images)*
+
 ##### *#'underwater_imagenet',-----------------------------------------(EUVP.......3700__Images)*
 
 ##### *#'underwater_marineranching',---------------------------------(UVE-38K....1800__Images)*
