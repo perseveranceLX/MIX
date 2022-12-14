@@ -1,7 +1,7 @@
 MIX-Benchmark
 =====================
 
-A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected from EUVP, UIEB and UVE-38K.
+A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected from UVE-38K, EUVP and UIEB.
 ---------------------------------------------------------------------------------------------------
 
 #### It consists of the following ten parts:
