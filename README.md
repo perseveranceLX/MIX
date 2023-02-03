@@ -29,11 +29,7 @@ A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected from UVE-
 
 *This database is publicly available. It is free for professors and researcher scientists affiliated to a University. 
 
-Send an e-mail to Xu Liu ([dalong.xu.liu@ieee.org](mailto:dalong.xu.liu@ieee.org)) before downloading the database. 
-
-You will need a permission to access the files of this database in 
-
-https://drive.google.com/drive/folders/1juzOLmib2FBCujFyaPERZ_LPlxgsX07Y?usp=sharing . 
+https://drive.google.com/drive/folders/1juzOLmib2FBCujFyaPERZ_LPlxgsX07Y?usp=sharing
 
 Welcome To Contact Me
 
