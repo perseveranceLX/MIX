@@ -31,9 +31,11 @@ A Large Scale Underwater Image Enhancement Benchmark/Dataset Collected from UVE-
 
 https://drive.google.com/drive/folders/1juzOLmib2FBCujFyaPERZ_LPlxgsX07Y?usp=sharing
 
-Welcome To Contact Me
+Welcome to Contact Me
 
 -------------------Xu Liu (dalong.xu.liu@ieee.org, silva-liu@outlook.com)
+
+For more information about me, please visit https://perseverancelx.github.io .
 
 
 
